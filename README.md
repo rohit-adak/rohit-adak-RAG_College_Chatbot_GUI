@@ -2,13 +2,13 @@
 
 #### **Overview**
 
-The RAG College Chatbot GUI project provides a user-friendly graphical interface for interacting with the RAG College Chatbot API. Utilizing the API from [RAG College Chatbot API](https://github.com/rohit-adak/Gemini_QnA_API/), this project aims to simplify the user experience of accessing and utilizing the chatbot's functionalities.
+The RAG College Chatbot GUI project provides a user-friendly graphical interface for interacting with the RAG College Chatbot API. Utilizing the API from [RAG College Chatbot API](https://github.com/rohit-adak/RAG_College_Chatbot_API), this project aims to simplify the user experience of accessing and utilizing the chatbot's functionalities.
 
 #### **Getting Started** 🚀
 
 1. **Prerequisites:**
    - Python (version >= 3.12)
-   - Installation and running of the [RAG College Chatbot API](https://github.com/rohit-adak/Gemini_QnA_API/) project.
+   - Installation and running of the [RAG College Chatbot API](https://github.com/rohit-adak/RAG_College_Chatbot_API) project.
 
 2. **Installation:**
    ```bash
@@ -32,7 +32,7 @@ The RAG College Chatbot GUI project provides a user-friendly graphical interface
 
 #### **API For the Application** 💻
 
-Please ensure that you have already installed and run the [RAG College Chatbot API](https://github.com/rohit-adak/Gemini_QnA_API/) project before using this GUI application.
+Please ensure that you have already installed and run the [RAG College Chatbot API](https://github.com/rohit-adak/RAG_College_Chatbot_API) project before using this GUI application.
 
 #### **Contributing** 🌟
 
